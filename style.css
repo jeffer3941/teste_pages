@@ -1,0 +1,12 @@
+body {
+    background-color: #c4ffff !important;
+}
+
+#formColor {
+    background-color: #e7b66c;
+    border-radius: 10px;
+}
+
+#buttonSend {
+    border: 10px 0 10px !important;
+}
